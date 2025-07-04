@@ -10,3 +10,11 @@ This project was completed as part of a data analytics course requirement and se
 - Identity trends in customer reviews, discounts, and product revenue.
 - Create an interactive and visual dashboard that summarizes key insights.
 - Present findings in a business friendly format suitable for stakeholders.
+##  Tools Used
+- Microsoft Excel
+ > Power Pivot
+ > Pivot Tables and Charts
+ > Dashboard Layout
+ > Excel formulas(e.g., IF, COUNTIF,etc.)
+- Data Source: Amazon Product Review Dataset(Excel file format)
+- GitHub: For version control and project submission
