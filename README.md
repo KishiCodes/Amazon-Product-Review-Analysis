@@ -66,6 +66,10 @@ Below is the full Excel workbook used for this anlysis. It includes:
 - A dashboard with visual insights
 This file reflects the complete end-to-end analysis done for the project.
   [Download the Excel file](https://github.com?KishiCodes/blob/main/Amazon%20case%20study.xlsx?raw=true)
+##  Conclusion 
+This project was completed by **Morufat Oluwadamilola Okunuga** as part of a practical case study in DSA data anlytics using Microsoft Excel.
+It reflects my growth in Excel and my continued journeyas an aspiring data analyst.
+
 
 
 
