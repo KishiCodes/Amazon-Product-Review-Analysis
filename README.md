@@ -32,6 +32,7 @@ After cleaning and restructuring, the following columns were included in the dat
 ![image](https://github.com/user-attachments/assets/ba142f74-4ef2-49d6-91a5-57bd0e8d99c6)
 ###  3. What is the total number of reviews per category?
 ![image](https://github.com/user-attachments/assets/795a8e92-9da8-421f-ac2d-70d4a121953c)
+###  4. Which product have the highest average ratings?
 
 
 
