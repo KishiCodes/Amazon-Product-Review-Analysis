@@ -65,7 +65,7 @@ Below is the full Excel workbook used for this anlysis. It includes:
 - PivotTables for answering key business questions
 - A dashboard with visual insights
 This file reflects the complete end-to-end analysis done for the project.
-  [Download the Excel file](
+  [Download the Excel file](./Amazon case study.xlsx)
 
 
 
