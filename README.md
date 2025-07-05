@@ -25,3 +25,6 @@ After cleaning and restructuring, the following columns were included in the dat
 - Price Range Bucket, Discount Range Bucket
 - Rating Scores
 - Total Potential Revenue
+##  Key Analysis Questions & Answers
+1. What is the average discount percentage by product category?
+   ![pivot_1](./pivot_1 .ng)
