@@ -20,4 +20,8 @@ This project was completed as part of a data analytics course requirement and se
 - GitHub: For version control and project submission
 ##  Dataset Discription
 After cleaning and restructuring, the following columns were included in the dataset:
-- Category Hierarchy(Main Category
+- Category Hierarchy(Main Category/ Level 2/ Level 3/ Level 4)
+- Actual Price, Discounted Price, Discount Percentage
+- Price Range Bucket, Discount Range Bucket
+- Rating Scores
+- Total Potential Revenue
