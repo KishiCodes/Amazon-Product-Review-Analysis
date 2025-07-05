@@ -51,6 +51,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  12. How many products have fewer than 1000 reviews?
 ![image](https://github.com/user-attachments/assets/b9896046-c3f7-4128-b44c-27e4938e1335)
 ###  13. Which categories have products with the highest discount?
+![image](https://github.com/user-attachments/assets/8a2d757c-3a79-46b3-82ec-d8562d1d670f)
+###  14. Identify the top 5 products in terms of rating and number of reviews combined.
+
 
 
 
