@@ -27,5 +27,6 @@ After cleaning and restructuring, the following columns were included in the dat
 - Total Potential Revenue
 ##  Key Analysis Questions & Answers
 1. What is the average discount percentage by product category?
-   ![pivot_1](./pivot_1 .ng)
+![image](https://github.com/user-attachments/assets/2e8da24a-06b6-4d90-9840-cc2293f42a90)
+
 
