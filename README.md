@@ -39,6 +39,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  6. Which product have the highest number of reviews?
 ![image](https://github.com/user-attachments/assets/a86c4645-2af8-443e-9d77-4f98c14f0fd0)
 ###  7. How many products have a discount of 50% or more?
+![image](https://github.com/user-attachments/assets/29014c41-1e79-4c92-8ce0-08a8d32f3200)
+###  8. What is the distribution of products ratins?
+
 
 
 
