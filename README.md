@@ -59,6 +59,13 @@ After cleaning the data and answering key business questions, I created a dashbo
 ![image](https://github.com/user-attachments/assets/a2a18fa6-04eb-4b21-9f73-e229c9f6e528)
 ![image](https://github.com/user-attachments/assets/b1c1af5c-77fb-4cce-a9f0-aded6603f9a4)
 ![image](https://github.com/user-attachments/assets/52cca743-b885-443c-8f4b-3b09c74bc818)
+##  Excel Workbook
+Below is the full Excel workbook used for this anlysis. It includes:
+- The original dataset (cleaned and structured)
+- PivotTables for answering key business questions
+- A dashboard with visual insights
+This file reflects the complete end-to-end analysis done for the project.
+  [Download the Excel file](
 
 
 
