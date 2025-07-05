@@ -49,6 +49,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  11. How does the rating relate to the level of discount?
 ![image](https://github.com/user-attachments/assets/055a53c1-e1d9-464f-afea-bdbe763dc30f)
 ###  12. How many products have fewer than 1000 reviews?
+![image](https://github.com/user-attachments/assets/b9896046-c3f7-4128-b44c-27e4938e1335)
+###  13. Which categories have products with the highest discount?
+
 
 
 
