@@ -37,6 +37,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  5. Average actual price vs the discounted price by category.
 ![image](https://github.com/user-attachments/assets/e5e58e94-22e2-4493-a560-a1b61a92c56b)
 ###  6. Which product have the highest number of reviews?
+![image](https://github.com/user-attachments/assets/a86c4645-2af8-443e-9d77-4f98c14f0fd0)
+###  7. How many products have a discount of 50% or more?
+
 
 
 
