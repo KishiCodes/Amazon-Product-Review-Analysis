@@ -57,6 +57,8 @@ After cleaning and restructuring, the following columns were included in the dat
 ##  Dashboard Preview
 After cleaning the data and answering key business questions, I created a dashboard in Excel to visualize the insights in a clear and interactive way. Below is a screenshot of the final dashboard, split into two views for clarity:
 ![image](https://github.com/user-attachments/assets/a2a18fa6-04eb-4b21-9f73-e229c9f6e528)
+![image](https://github.com/user-attachments/assets/b1c1af5c-77fb-4cce-a9f0-aded6603f9a4)
+
 
 
 
