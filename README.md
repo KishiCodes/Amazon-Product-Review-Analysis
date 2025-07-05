@@ -41,6 +41,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  7. How many products have a discount of 50% or more?
 ![image](https://github.com/user-attachments/assets/29014c41-1e79-4c92-8ce0-08a8d32f3200)
 ###  8. What is the distribution of products ratins?
+![image](https://github.com/user-attachments/assets/e92bc33d-9b88-4c94-b5e6-a9bd94bd2af4)
+###  9. What is the total potential revenue?
+
 
 
 
