@@ -43,6 +43,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  8. What is the distribution of products ratins?
 ![image](https://github.com/user-attachments/assets/e92bc33d-9b88-4c94-b5e6-a9bd94bd2af4)
 ###  9. What is the total potential revenue?
+![image](https://github.com/user-attachments/assets/c26a99d6-f510-4f6a-a338-dd3cad418d44)
+###  10. What is the number of unique produts per price range bucket?
+
 
 
 
