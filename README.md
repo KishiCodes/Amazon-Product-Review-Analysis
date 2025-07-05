@@ -35,6 +35,10 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  4. Which product have the highest average ratings?
 ![image](https://github.com/user-attachments/assets/27d5ac5b-42a6-4914-81cc-d437f293e68f)
 ###  5. Average actual price vs the discounted price by category.
+![image](https://github.com/user-attachments/assets/e5e58e94-22e2-4493-a560-a1b61a92c56b)
+###  6. Which product have the highest number of reviews?
+
+
 
 
 
