@@ -45,6 +45,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  9. What is the total potential revenue?
 ![image](https://github.com/user-attachments/assets/c26a99d6-f510-4f6a-a338-dd3cad418d44)
 ###  10. What is the number of unique produts per price range bucket?
+![image](https://github.com/user-attachments/assets/4d193b1c-002d-4bc0-9757-f911303f6c8d)
+###  11. How does the rating relate to the level of discount?
+
 
 
 
