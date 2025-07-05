@@ -28,5 +28,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ##  Key Analysis Questions & Answers
 1. What is the average discount percentage by product category?
 ![image](https://github.com/user-attachments/assets/2e8da24a-06b6-4d90-9840-cc2293f42a90)
+2. How many products are listed under each category?
+![image](https://github.com/user-attachments/assets/ba142f74-4ef2-49d6-91a5-57bd0e8d99c6)
+3. What is the total number of reviews per category?
+
 
 
