@@ -54,6 +54,8 @@ After cleaning and restructuring, the following columns were included in the dat
 ![image](https://github.com/user-attachments/assets/8a2d757c-3a79-46b3-82ec-d8562d1d670f)
 ###  14. Identify the top 5 products in terms of rating and number of reviews combined.
 ![image](https://github.com/user-attachments/assets/5abf6808-0d1d-42f1-9c2b-90932eb27848)
+##  Dashboard Preview
+After cleaning the data and answering key business questions, I created a dashboard in Excel to visualize the insights in a clear and interactive way.
 
 
 
