@@ -47,6 +47,9 @@ After cleaning and restructuring, the following columns were included in the dat
 ###  10. What is the number of unique produts per price range bucket?
 ![image](https://github.com/user-attachments/assets/4d193b1c-002d-4bc0-9757-f911303f6c8d)
 ###  11. How does the rating relate to the level of discount?
+![image](https://github.com/user-attachments/assets/055a53c1-e1d9-464f-afea-bdbe763dc30f)
+###  12. How many products have fewer than 1000 reviews?
+
 
 
 
