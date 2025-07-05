@@ -28,3 +28,4 @@ After cleaning and restructuring, the following columns were included in the dat
 ##  Key Analysis Questions & Answers
 1. What is the average discount percentage by product category?
    ![pivot_1](./pivot_1 .ng)
+
